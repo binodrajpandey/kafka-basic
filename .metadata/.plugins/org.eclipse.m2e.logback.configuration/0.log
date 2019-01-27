@@ -1,0 +1,95 @@
+2018-12-23 09:31:05,990 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-12-23 09:33:28,329 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/tycho-compiler-jdt/0.21.0/tycho-compiler-jdt-0.21.0.pom
+2018-12-23 09:33:28,712 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/tycho-compiler-jdt/0.21.0/tycho-compiler-jdt-0.21.0.pom
+2018-12-23 09:33:29,925 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/tycho/0.21.0/tycho-0.21.0.pom
+2018-12-23 09:33:30,364 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/tycho/0.21.0/tycho-0.21.0.pom
+2018-12-23 09:33:31,053 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/org.eclipse.jdt.core/3.10.0.v20140604-1726/org.eclipse.jdt.core-3.10.0.v20140604-1726.pom
+2018-12-23 09:33:31,422 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/org.eclipse.jdt.core/3.10.0.v20140604-1726/org.eclipse.jdt.core-3.10.0.v20140604-1726.pom
+2018-12-23 09:33:32,341 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/org.eclipse.jdt.compiler.apt/1.1.0.v20140509-1235/org.eclipse.jdt.compiler.apt-1.1.0.v20140509-1235.pom
+2018-12-23 09:33:32,704 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/org.eclipse.jdt.compiler.apt/1.1.0.v20140509-1235/org.eclipse.jdt.compiler.apt-1.1.0.v20140509-1235.pom
+2018-12-23 09:33:36,615 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/tycho-compiler-jdt/0.21.0/tycho-compiler-jdt-0.21.0.jar
+2018-12-23 09:33:37,039 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/tycho-compiler-jdt/0.21.0/tycho-compiler-jdt-0.21.0.jar
+2018-12-23 09:33:39,601 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/org.eclipse.jdt.core/3.10.0.v20140604-1726/org.eclipse.jdt.core-3.10.0.v20140604-1726.jar
+2018-12-23 09:33:43,915 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/org.eclipse.jdt.core/3.10.0.v20140604-1726/org.eclipse.jdt.core-3.10.0.v20140604-1726.jar
+2018-12-23 09:33:45,397 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/org.eclipse.jdt.compiler.apt/1.1.0.v20140509-1235/org.eclipse.jdt.compiler.apt-1.1.0.v20140509-1235.jar
+2018-12-23 09:33:45,790 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/plugins-release/org/eclipse/tycho/org.eclipse.jdt.compiler.apt/1.1.0.v20140509-1235/org.eclipse.jdt.compiler.apt-1.1.0.v20140509-1235.jar
+2018-12-23 09:33:47,494 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: streams.examples:streams.examples:0.1 @ C:\kafka\streams.examples\example\pom.xml.
+2018-12-23 09:33:49,584 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/kafka-streams/2.1.0/kafka-streams-2.1.0.pom
+2018-12-23 09:33:49,954 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/kafka-streams/2.1.0/kafka-streams-2.1.0.pom
+2018-12-23 09:33:50,617 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/kafka-clients/2.1.0/kafka-clients-2.1.0.pom
+2018-12-23 09:33:50,986 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/kafka-clients/2.1.0/kafka-clients-2.1.0.pom
+2018-12-23 09:33:51,674 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/github/luben/zstd-jni/1.3.5-4/zstd-jni-1.3.5-4.pom
+2018-12-23 09:33:52,060 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/github/luben/zstd-jni/1.3.5-4/zstd-jni-1.3.5-4.pom
+2018-12-23 09:33:52,730 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/lz4/lz4-java/1.5.0/lz4-java-1.5.0.pom
+2018-12-23 09:33:53,128 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/lz4/lz4-java/1.5.0/lz4-java-1.5.0.pom
+2018-12-23 09:33:53,840 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/xerial/snappy/snappy-java/1.1.7.2/snappy-java-1.1.7.2.pom
+2018-12-23 09:33:54,283 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/xerial/snappy/snappy-java/1.1.7.2/snappy-java-1.1.7.2.pom
+2018-12-23 09:33:55,015 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/connect-json/2.1.0/connect-json-2.1.0.pom
+2018-12-23 09:33:55,388 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/connect-json/2.1.0/connect-json-2.1.0.pom
+2018-12-23 09:33:56,088 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/connect-api/2.1.0/connect-api-2.1.0.pom
+2018-12-23 09:33:56,462 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/connect-api/2.1.0/connect-api-2.1.0.pom
+2018-12-23 09:33:57,556 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1.pom
+2018-12-23 09:33:57,938 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1.pom
+2018-12-23 09:33:58,372 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7.pom
+2018-12-23 09:33:58,759 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7.pom
+2018-12-23 09:33:59,174 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/jackson-base/2.9.7/jackson-base-2.9.7.pom
+2018-12-23 09:33:59,679 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/jackson-base/2.9.7/jackson-base-2.9.7.pom
+2018-12-23 09:34:00,091 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/jackson-bom/2.9.7/jackson-bom-2.9.7.pom
+2018-12-23 09:34:00,464 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/jackson-bom/2.9.7/jackson-bom-2.9.7.pom
+2018-12-23 09:34:00,849 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/jackson-parent/2.9.1.1/jackson-parent-2.9.1.1.pom
+2018-12-23 09:34:01,230 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/jackson-parent/2.9.1.1/jackson-parent-2.9.1.1.pom
+2018-12-23 09:34:01,664 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/oss-parent/33/oss-parent-33.pom
+2018-12-23 09:34:02,063 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/oss-parent/33/oss-parent-33.pom
+2018-12-23 09:34:02,609 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/core/jackson-core/2.9.7/jackson-core-2.9.7.pom
+2018-12-23 09:34:02,996 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/core/jackson-core/2.9.7/jackson-core-2.9.7.pom
+2018-12-23 09:34:03,744 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/rocksdb/rocksdbjni/5.14.2/rocksdbjni-5.14.2.pom
+2018-12-23 09:34:04,131 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/rocksdb/rocksdbjni/5.14.2/rocksdbjni-5.14.2.pom
+2018-12-23 09:34:05,833 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/kafka-streams/2.1.0/kafka-streams-2.1.0.jar
+2018-12-23 09:34:08,504 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/kafka-streams/2.1.0/kafka-streams-2.1.0.jar
+2018-12-23 09:34:10,587 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/kafka-clients/2.1.0/kafka-clients-2.1.0.jar
+2018-12-23 09:34:12,118 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/kafka-clients/2.1.0/kafka-clients-2.1.0.jar
+2018-12-23 09:34:14,120 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/github/luben/zstd-jni/1.3.5-4/zstd-jni-1.3.5-4.jar
+2018-12-23 09:34:17,744 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/github/luben/zstd-jni/1.3.5-4/zstd-jni-1.3.5-4.jar
+2018-12-23 09:34:18,990 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/lz4/lz4-java/1.5.0/lz4-java-1.5.0.jar
+2018-12-23 09:34:19,485 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/lz4/lz4-java/1.5.0/lz4-java-1.5.0.jar
+2018-12-23 09:34:20,691 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/xerial/snappy/snappy-java/1.1.7.2/snappy-java-1.1.7.2.jar
+2018-12-23 09:34:22,207 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/xerial/snappy/snappy-java/1.1.7.2/snappy-java-1.1.7.2.jar
+2018-12-23 09:34:23,051 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/connect-json/2.1.0/connect-json-2.1.0.jar
+2018-12-23 09:34:23,653 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/connect-json/2.1.0/connect-json-2.1.0.jar
+2018-12-23 09:34:24,365 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/connect-api/2.1.0/connect-api-2.1.0.jar
+2018-12-23 09:34:24,750 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/apache/kafka/connect-api/2.1.0/connect-api-2.1.0.jar
+2018-12-23 09:34:25,474 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1.jar
+2018-12-23 09:34:25,867 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/javax/ws/rs/javax.ws.rs-api/2.1.1/javax.ws.rs-api-2.1.1.jar
+2018-12-23 09:34:26,227 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7.jar
+2018-12-23 09:34:27,345 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7.jar
+2018-12-23 09:34:27,705 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/core/jackson-core/2.9.7/jackson-core-2.9.7.jar
+2018-12-23 09:34:28,137 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/com/fasterxml/jackson/core/jackson-core/2.9.7/jackson-core-2.9.7.jar
+2018-12-23 09:34:30,264 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://virmed.jfrog.io/virmed/libs-release/org/rocksdb/rocksdbjni/5.14.2/rocksdbjni-5.14.2.jar
+2018-12-23 09:34:39,442 [Worker-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://virmed.jfrog.io/virmed/libs-release/org/rocksdb/rocksdbjni/5.14.2/rocksdbjni-5.14.2.jar
+2018-12-23 09:34:42,688 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 80 sec
+2018-12-23 09:34:44,157 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-23 09:34:44,175 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-12-23 09:34:44,206 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-23 09:34:44,214 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\kafka\streams.examples\example\src\test\resources
+2018-12-23 10:01:57,215 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-12-23 10:01:58,232 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: streams.examples:streams.examples:0.1 @ C:\kafka\streams.examples\example\pom.xml.
+2018-12-23 10:01:58,447 [Worker-9] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-12-23 10:01:58,932 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-23 10:01:58,939 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-12-23 10:01:58,954 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-23 10:01:58,954 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\kafka\streams.examples\example\src\test\resources
+2018-12-23 10:05:06,900 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-23 10:05:06,905 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-23 10:05:06,907 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-23 10:05:06,907 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\kafka\streams.examples\example\src\test\resources
+2018-12-23 10:05:33,775 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-12-23 10:05:34,709 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: streams.examples:streams.examples:0.1 @ C:\kafka\streams.examples\example\pom.xml.
+2018-12-23 10:05:35,423 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-12-23 10:05:35,884 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-23 10:05:35,891 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-12-23 10:05:35,906 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-23 10:05:35,913 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\kafka\streams.examples\example\src\test\resources
+2018-12-24 12:44:19,885 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-24 12:44:19,966 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-12-24 12:44:19,984 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-24 12:44:19,993 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\kafka\streams.examples\example\src\test\resources
