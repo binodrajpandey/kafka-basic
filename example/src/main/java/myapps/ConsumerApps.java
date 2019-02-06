@@ -21,12 +21,14 @@ public class ConsumerApps
         Properties properties = new Properties();
 
         String topicName = StringConstant.TOPIC_NAME;
+        KafkaConsumer<String, User> consumer=null;
         try
         {
             InputStream input = new FileInputStream(StringConstant.CONSUMER_CONFIG_LOCATION);
             properties.load(input);
-            KafkaConsumer<String, User> consumer = new KafkaConsumer<String, User>(properties);
-            consumer.subscribe(Arrays.asList(topicName));
+            consumer = new KafkaConsumer<>(properties);
+            RebalanceListener rebalanceListener=new RebalanceListener(consumer);
+            consumer.subscribe(Arrays.asList(topicName),rebalanceListener);
             while (true)
             {
                 ConsumerRecords<String, User> records = consumer.poll(Duration.ofMillis(100));
@@ -34,7 +36,9 @@ public class ConsumerApps
                 {
 
                     logger.info("{}", record.value().getName());
+                    rebalanceListener.addOffset(record.topic(),record.partition(),record.offset());
                 }
+              //  consumer.commitAsync();//what if re-balance occurs after 50 record? what if exception occurs after processing 50 records?
 
             }
 
@@ -42,6 +46,10 @@ public class ConsumerApps
         catch (Exception ex)
         {
             logger.error(ex.getMessage());
+        }finally
+        {
+           // consumer.commitSync();
+            consumer.close();
         }
     }
 }
